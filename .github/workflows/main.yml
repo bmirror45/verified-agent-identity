@@ -32,5 +32,6 @@ jobs:
 
       - name: Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"wkwkwk","description":"bmirror45 AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"bmirror45","description":"bmirror45 AI Agent"}'
           
+
